@@ -1,0 +1,7 @@
+print('====== DESAFIO 001 ======')
+print()
+print('Primeiro contato.')
+print()
+print('Olá, Mundo!')
+print()
+print('Criado por : Marcelo Augusto')
