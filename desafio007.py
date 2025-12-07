@@ -1,0 +1,10 @@
+print('====== DESAFIO 007 ======')
+print()
+print('Desenvolva um programa que leia as duas notas de um aluno , calcule e mostre a sua média.')
+print()
+nota1 = int(input('Primeira nota : '))
+nota2 = int(input('Segunda nota : '))
+media = nota1 + nota2
+print('Média : {}'.format(media/2))
+print()
+print('Criado por : Marcelo Augusto')

@@ -1,0 +1,10 @@
+print('====== DESAFIO 012 ======')
+print()
+print('Faça um algoritmo que leia o preço de um produto e mostre seu novo preço , com 5% de desconto.')
+print()
+produto = float(input('Digite o valor do produto : '))
+desconto = produto / 20
+print()
+print('Com desconto de 5%, o produto fica por R$ {:.2f}.'.format(produto-desconto))
+print()
+print('Criado por : Marcelo Augusto')
